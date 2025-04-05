@@ -5,9 +5,10 @@
 <br>
 <i>Hey I am Ashish </i>
 <br>
-<pre>I've completed my first project after learning java and that project was totally based upon basic Oops concept,
+<p>I've completed my first project after learning java and that project was totally based upon basic Oops concept
+<br>
   I had use every Oops concept in it for better understanding of Oops..
-</pre>
+</p>
 <br>
 <i>Thankyou</i>
 
